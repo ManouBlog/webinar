@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/webinar/static/css/main.8f8452f8.css",
-    "main.js": "/webinar/static/js/main.9d53f522.js",
+    "main.css": "/webinar/static/css/main.7c3708ab.css",
+    "main.js": "/webinar/static/js/main.8b53c4d0.js",
     "static/js/787.11a0f2b0.chunk.js": "/webinar/static/js/787.11a0f2b0.chunk.js",
     "index.html": "/webinar/index.html",
-    "main.8f8452f8.css.map": "/webinar/static/css/main.8f8452f8.css.map",
-    "main.9d53f522.js.map": "/webinar/static/js/main.9d53f522.js.map",
+    "main.7c3708ab.css.map": "/webinar/static/css/main.7c3708ab.css.map",
+    "main.8b53c4d0.js.map": "/webinar/static/js/main.8b53c4d0.js.map",
     "787.11a0f2b0.chunk.js.map": "/webinar/static/js/787.11a0f2b0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8f8452f8.css",
-    "static/js/main.9d53f522.js"
+    "static/css/main.7c3708ab.css",
+    "static/js/main.8b53c4d0.js"
   ]
 }
