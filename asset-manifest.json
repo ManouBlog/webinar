@@ -1,15 +1,17 @@
 {
   "files": {
-    "main.css": "/webinar/static/css/main.7c3708ab.css",
-    "main.js": "/webinar/static/js/main.8b53c4d0.js",
+    "main.css": "/webinar/static/css/main.2407da68.css",
+    "main.js": "/webinar/static/js/main.03467968.js",
     "static/js/787.11a0f2b0.chunk.js": "/webinar/static/js/787.11a0f2b0.chunk.js",
+    "static/media/1684505329770.jfif": "/webinar/static/media/1684505329770.858438914dce192b901a.jfif",
+    "static/media/webinar.jpeg": "/webinar/static/media/webinar.1b5e7a50cb5b26b34f02.jpeg",
     "index.html": "/webinar/index.html",
-    "main.7c3708ab.css.map": "/webinar/static/css/main.7c3708ab.css.map",
-    "main.8b53c4d0.js.map": "/webinar/static/js/main.8b53c4d0.js.map",
+    "main.2407da68.css.map": "/webinar/static/css/main.2407da68.css.map",
+    "main.03467968.js.map": "/webinar/static/js/main.03467968.js.map",
     "787.11a0f2b0.chunk.js.map": "/webinar/static/js/787.11a0f2b0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7c3708ab.css",
-    "static/js/main.8b53c4d0.js"
+    "static/css/main.2407da68.css",
+    "static/js/main.03467968.js"
   ]
 }
