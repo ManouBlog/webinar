@@ -1,16 +1,17 @@
 {
   "files": {
     "main.css": "/webinar/static/css/main.e940caf3.css",
-    "main.js": "/webinar/static/js/main.d268d8c4.js",
+    "main.js": "/webinar/static/js/main.9e238000.js",
     "static/js/787.11a0f2b0.chunk.js": "/webinar/static/js/787.11a0f2b0.chunk.js",
     "static/media/booster_with_ia.png": "/webinar/static/media/booster_with_ia.a509f84abfa9425e3126.png",
+    "static/media/kodjo_english.jpeg": "/webinar/static/media/kodjo_english.555083ab08541cf260b1.jpeg",
     "index.html": "/webinar/index.html",
     "main.e940caf3.css.map": "/webinar/static/css/main.e940caf3.css.map",
-    "main.d268d8c4.js.map": "/webinar/static/js/main.d268d8c4.js.map",
+    "main.9e238000.js.map": "/webinar/static/js/main.9e238000.js.map",
     "787.11a0f2b0.chunk.js.map": "/webinar/static/js/787.11a0f2b0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e940caf3.css",
-    "static/js/main.d268d8c4.js"
+    "static/js/main.9e238000.js"
   ]
 }
